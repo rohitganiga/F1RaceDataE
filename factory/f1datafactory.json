@@ -1,0 +1,9 @@
+{
+	"name": "f1datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb864faf-b319-4ef3-9d83-14b6828daaa6",
+		"tenantId": "c5a7cfe8-9e57-456a-9d65-023643b58b00"
+	}
+}
